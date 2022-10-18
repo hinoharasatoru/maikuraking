@@ -1,0 +1,33 @@
+body{
+    margin: background-color:gray;
+}
+
+hearder{
+    position: :relative;
+    padding-left: 100px;
+}
+
+nav{
+    position: absolute;
+    top: :0;
+    right: 100px;
+}
+
+
+lits{
+    color:red;
+    list-style-type: none
+    text-align:center;
+}
+
+list{
+    color:blue;
+    padding-right: 50px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
+img{
+    width: 500px
+}
